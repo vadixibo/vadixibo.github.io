@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://vadixibo.github.io/sitemap/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/wLG/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/eaX/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/XbD/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/pOF/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/DVK/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/rOy/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/pcD/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/emB/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/dns/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/vwp/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/ToR/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/OcM/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/AeS/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/rOq/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/fHy/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/NFr/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/cXH/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/BYl/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/pOE/sitemap_index.vadixibo
+Sitemap: https://vadixibo.github.io/psn/sitemap_index.vadixibo
